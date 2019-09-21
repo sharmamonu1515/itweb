@@ -1,1 +1,42 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'NotoSerif';
+    src: url('assets/fonts/Noto_Serif/NotoSerif-Regular.ttf');
+}
+@font-face {
+    font-family: 'NotoSerif-Bold';
+    src: url('assets/fonts/Noto_Serif/NotoSerif-Bold.ttf');
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('assets/fonts/Montserrat/Montserrat-Regular.ttf');
+}
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('assets/fonts//Montserrat/Montserrat-Bold.ttf');
+}
+@font-face {
+    font-family: 'Montserrat-Light';
+    src: url('assets/fonts/Montserrat/Montserrat-Light.ttf');
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'NotoSerif';
+}
+h2 {
+    font-size: 36px;
+    font-family: 'NotoSerif';
+}
+h3 {
+    font-size: 30px;
+    font-family: 'NotoSerif';
+}
+h4 {
+    font-size: 24px;
+    font-family: 'NotoSerif';
+}
+h5 {
+    font-size: 18px;
+    font-family: 'NotoSerif';
+}
