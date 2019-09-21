@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Materialize
+
+We are using materialize css so before starting make sure to import those.
+Run below commands
+
+npm i --save jquery
+npm install materialize-css@next
+
+Make sure to add these files in angular.json file.
